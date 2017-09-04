@@ -5,10 +5,10 @@ import './slant.css';
 import Airtable from 'airtable';
 
 const config = {
-  base: 'app7neTLSxES87Wp9',
+  base: 'BASE',
   table: 'Surveys',
   view: 'Grid',
-  apiKey: 'keyrpYdBivLIIg4Ep',
+  apiKey: 'API_KEY',
   maxRecords: 20
 }
 
